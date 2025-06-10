@@ -27,6 +27,6 @@ If you have any feedback, please reach out to me at bugrievans5@gmail.com
 
 ## Authors
 
-- [@jaydipsinh13](https://www.github.com/jaydipsinh13)
+- [@Bugri Evans](https://www.github.com/jaydipsinh13)
 
 
